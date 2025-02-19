@@ -40,6 +40,15 @@ The **Multinomial Naïve Bayes model** produced the best results, demonstrating 
 ## 📈 Results  
 The results show that **Naïve Bayes classifiers are highly effective** for SMS spam detection. Among the three models tested, **Multinomial Naïve Bayes** achieved the best accuracy and precision. The confusion matrix and other evaluation metrics confirmed its strong performance in distinguishing between spam and ham messages.
 
+## 🌍 Web Application for Spam Detection  
+To make the spam detection model accessible, a **web application** has been developed where users can enter a message and get a prediction.  
+
+### How It Works:
+- The web app takes user input (an SMS message).  
+- The input text is preprocessed using the same NLP techniques as the training data.  
+- The trained **Multinomial Naïve Bayes model** makes a prediction.  
+- The app displays whether the message is **Spam** or **Not Spam**.
+
 ## 🔥 How to Run the Project  
 To run this project on your local system or Google Colab, follow these steps:  
 
