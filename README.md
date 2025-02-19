@@ -54,7 +54,7 @@ To run this project on your local system or Google Colab, follow these steps:
 
 1. **Clone the repository** using the following command:  
    ```sh
-   git clone https://github.com/yourusername/SMS-Spam-Detection.git
+   git clone https://github.com/KotraHaridutt/SMS-Spam-Detection.git
 
 👨‍💻 Author: KOTRA HARIDUTT
 📧 Contact: kotraharidutt@gmail.com
